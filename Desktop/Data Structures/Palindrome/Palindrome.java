@@ -3,7 +3,7 @@ import java.util.StringTokenizer;
 /**
  * Write a description of class Palindrome here.
  *
- * @author (your name)
+ * @author (Aarthi Koripelly)
  * @version (a version number or a date)
  */
 public class Palindrome
